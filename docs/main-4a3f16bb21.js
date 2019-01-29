@@ -1,0 +1,1 @@
+$(document).ready(function(){var o=new Date;console.log(o),$("#footer-date").html(o),$("#social-click").click(function(){$(".social-icon").toggle("slide")}),$("img").load(function(){$(this).fadeIn("slow")})});
