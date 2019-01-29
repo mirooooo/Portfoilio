@@ -32,7 +32,7 @@ gulp.task('optimizeImages', ['deleteDistFolder'], function () {
             progressive: true,
             interlaced: true
         }))
-        .pipe(gulp.dest("./docs/images"));
+        .pipe(gulp.dest("./docs/img"));
   });
 
 
