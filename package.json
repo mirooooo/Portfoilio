@@ -26,5 +26,8 @@
     "gulp-uglify": "3.0.0",
     "gulp-usemin": "^0.3.28",
     "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "mime": "^2.4.0"
   }
 }
